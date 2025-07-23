@@ -1,4 +1,4 @@
-# Vendor-Performance-Data-Analytics-End-To-End-Project
+# Vendalyze
 
 🔗 [**Live Dashboard (Power BI)**](https://app.powerbi.com/view?r=eyJrIjoiM2E0ODk4MjgtNGQxMy00ZWMzLWExNWEtN2YzYWU5ZjI4NjYyIiwidCI6ImE2ZWY1YTM2LWUyYmYtNDI1Ni05ODAyLTA4MTA4ZWIwOTEzYSJ9)
 
